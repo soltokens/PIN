@@ -1,16 +1,15 @@
 {
   "name": "pinocchio",
   "symbol": "PIN",
-  "uri": "https://yourwebsite.com/token-metadata.json",
-  "seller_fee_basis_points": 500,
+  "uri": "https://github.com/soltokens/PIN/blob/main/token-metadata.json",
+  "seller_fee_basis_points": 0,
   "creators": null,
   "creators_are_usable": true,
   "formats": [
     {
       "name": "image",
       "type": "png",
-      "uri": "https://yourwebsite.com/token-image.png"
+      "uri": "https://github.com/soltokens/PIN/blob/main/PIN.png"
     }
-  ],
-  "external_url": "https://yourwebsite.com"
+  ]
 }
